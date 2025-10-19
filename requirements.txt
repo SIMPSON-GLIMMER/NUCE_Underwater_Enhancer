@@ -1,7 +1,8 @@
-streamlit
-opencv-python
-numpy
-matplotlib
-pywavelets
-requests
+streamlit==1.26.0
+opencv-python-headless==4.8.1.78
+numpy==1.27.5
+matplotlib==3.8.0
+pywavelets==1.5.1
+requests==2.31.0
+
 
